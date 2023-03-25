@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS estie_db;
+CREATE DATABASE  estie_db;
